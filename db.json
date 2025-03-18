@@ -1,0 +1,271 @@
+{
+  "home": {
+    "slider": [
+      {"uri": "https://picsum.photos/id/0/367/267"},
+      {"uri": "https://picsum.photos/id/1/367/267"},
+      {"uri": "https://picsum.photos/id/2/367/267"},
+      {"uri": "https://picsum.photos/id/3/367/267"},
+      {"uri": "https://picsum.photos/id/4/367/267"}
+    ],
+    "best": [
+      {
+        "image": "https://picsum.photos/id/0/367/267",
+        "title": "عنوان",
+        "price": "99",
+        "id": 0
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان یک",
+        "price": "45",
+        "id": 1
+      },
+      {
+        "image": "https://picsum.photos/id/2/367/267",
+        "title": "عنوان خوب",
+        "price": "220",
+        "id": 2
+      },
+      {
+        "image": "https://picsum.photos/id/3/367/267",
+        "title": "عنوان با متن بلند",
+        "price": "90",
+        "id": 3
+      },
+      {
+        "image": "https://picsum.photos/id/4/367/267",
+        "title": "عنوان جدید",
+        "price": "120",
+        "id": 4
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان کوتاه",
+        "price": "100",
+        "id": 5
+      }
+    ],
+    "newest": [
+      {
+        "image": "https://picsum.photos/id/0/367/267",
+        "title": "عنوان",
+        "price": "99",
+        "id": 0
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان یک",
+        "price": "45",
+        "id": 1
+      },
+      {
+        "image": "https://picsum.photos/id/2/367/267",
+        "title": "عنوان خوب",
+        "price": "220",
+        "id": 2
+      },
+      {
+        "image": "https://picsum.photos/id/3/367/267",
+        "title": "عنوان با متن بلند",
+        "price": "90",
+        "id": 3
+      },
+      {
+        "image": "https://picsum.photos/id/4/367/267",
+        "title": "عنوان جدید",
+        "price": "120",
+        "id": 4
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان کوتاه",
+        "price": "100",
+        "id": 5
+      }
+    ],
+    "offers": [
+      {
+        "image": "https://picsum.photos/id/0/367/267",
+        "title": "عنوان",
+        "price": "99",
+        "id": 0
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان یک",
+        "price": "45",
+        "id": 1
+      },
+      {
+        "image": "https://picsum.photos/id/2/367/267",
+        "title": "عنوان خوب",
+        "price": "220",
+        "id": 2
+      },
+      {
+        "image": "https://picsum.photos/id/3/367/267",
+        "title": "عنوان با متن بلند",
+        "price": "90",
+        "id": 3
+      },
+      {
+        "image": "https://picsum.photos/id/4/367/267",
+        "title": "عنوان جدید",
+        "price": "120",
+        "id": 4
+      },
+      {
+        "image": "https://picsum.photos/id/1/367/267",
+        "title": "عنوان کوتاه",
+        "price": "100",
+        "id": 5
+      }
+    ]
+  },
+  "search": [
+    {
+      "image": "https://picsum.photos/id/0/367/267",
+      "title": "عنوان",
+      "price": "99",
+      "id": 0
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان یک",
+      "price": "45",
+      "id": 1
+    },
+    {
+      "image": "https://picsum.photos/id/2/367/267",
+      "title": "عنوان خوب",
+      "price": "220",
+      "id": 2
+    },
+    {
+      "image": "https://picsum.photos/id/3/367/267",
+      "title": "عنوان با متن بلند",
+      "price": "90",
+      "id": 3
+    },
+    {
+      "image": "https://picsum.photos/id/4/367/267",
+      "title": "عنوان جدید",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان کوتاه",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "image": "https://picsum.photos/id/0/367/267",
+      "title": "عنوان",
+      "price": "99",
+      "id": 6
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان یک",
+      "price": "45",
+      "id": 7
+    },
+    {
+      "image": "https://picsum.photos/id/2/367/267",
+      "title": "عنوان خوب",
+      "price": "220",
+      "id": 8
+    },
+    {
+      "image": "https://picsum.photos/id/3/367/267",
+      "title": "عنوان با متن بلند",
+      "price": "90",
+      "id": 9
+    },
+    {
+      "image": "https://picsum.photos/id/4/367/267",
+      "title": "عنوان جدید",
+      "price": "120",
+      "id": 10
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان کوتاه",
+      "price": "100",
+      "id": 11
+    },
+    {
+      "image": "https://picsum.photos/id/0/367/267",
+      "title": "عنوان",
+      "price": "99",
+      "id": 12
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان یک",
+      "price": "45",
+      "id": 13
+    },
+    {
+      "image": "https://picsum.photos/id/2/367/267",
+      "title": "عنوان خوب",
+      "price": "220",
+      "id": 14
+    },
+    {
+      "image": "https://picsum.photos/id/3/367/267",
+      "title": "عنوان با متن بلند",
+      "price": "90",
+      "id": 15
+    },
+    {
+      "image": "https://picsum.photos/id/4/367/267",
+      "title": "عنوان جدید",
+      "price": "120",
+      "id": 16
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان کوتاه",
+      "price": "100",
+      "id": 17
+    },
+    {
+      "image": "https://picsum.photos/id/0/367/267",
+      "title": "عنوان",
+      "price": "99",
+      "id": 18
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان یک",
+      "price": "45",
+      "id": 19
+    },
+    {
+      "image": "https://picsum.photos/id/2/367/267",
+      "title": "عنوان خوب",
+      "price": "220",
+      "id": 20
+    },
+    {
+      "image": "https://picsum.photos/id/3/367/267",
+      "title": "عنوان با متن بلند",
+      "price": "90",
+      "id": 21
+    },
+    {
+      "image": "https://picsum.photos/id/4/367/267",
+      "title": "عنوان جدید",
+      "price": "120",
+      "id": 22
+    },
+    {
+      "image": "https://picsum.photos/id/1/367/267",
+      "title": "عنوان کوتاه",
+      "price": "100",
+      "id": 23
+    }
+  ]
+}

@@ -83,6 +83,12 @@ android {
         versionName "1.0"
     }
     signingConfigs {
+        release {
+            storeFile file('khayati_calc.keystore')
+            storePassword 'Mm123123'
+            keyAlias 'khayati_calc'
+            keyPassword 'Mm123123'
+        }
         debug {
             storeFile file('debug.keystore')
             storePassword 'android'
